@@ -13,6 +13,11 @@ body {
 				word-wrap: break-word;
 				}
 
+header {
+				padding-top: 20px;
+				padding-bottom: 20px;
+				}
+
 p.head {
 				font-size: 2.5rem;
 				text-weight: bold;
@@ -43,7 +48,7 @@ form {
 				border: 1px solid #c6c7cc;
 				border-radius: 5px;
 				width: 100%;
-				height: 40px;
+				height: 60px;
 				padding: 10px;
 				}
 
@@ -71,7 +76,7 @@ textarea {
 				border-radius: 3px;
 				text-align: center;
 				width: 100%;
-				height: 50px;
+				height: 60px;
 				}
 
 body, form, .one, textarea, .submit {
