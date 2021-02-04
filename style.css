@@ -1,7 +1,7 @@
 body {
 				font-family: Helvetica, sans-serif;
 				color: white;
-				font-size: 1.2rem;
+				font-size: 1.5rem;
 			 background: linear-gradient(115deg,
 			 		rgba(58, 58, 158, 0.5),
       rgba(136, 136, 206, 0.4)),  url(background.jpeg);
@@ -10,6 +10,7 @@ body {
 				max-width: 100%;
 				height: 100vh;
 				margin: 0;
+				word-wrap: break-word;
 				}
 
 p.head {
@@ -31,8 +32,8 @@ form {
 				background-color: #1f2645;
 				margin-left: 0;
 				padding: 35px 15px 20px 15px;
-				opacity: 0.7;
-				filter: alpha(opacity=70);
+				opacity: 0.8;
+				filter: alpha(opacity=80);
 				border-radius: 10px;
 				width: 100%;
 				margin: 0 auto;
